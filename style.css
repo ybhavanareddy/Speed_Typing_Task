@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+
+    padding: 30px;
+}
+
+.main-heading {
+    font-size: 45px;
+    color: #690cb0;
+    font-weight: bold;
+
+}
+
+.image {
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+}
+
+.seconds {
+    font-size: 30px;
+}
+
+.seconds2 {
+    font-size: 20px;
+}
+
+.speed-typing-test-container {
+    margin-top: 20px;
+    background-color: #f2ebfe;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    border-radius: 10px;
+    height: 300px;
+
+}
+
+.text-area {
+    margin: 20px;
+    height: 120px;
+    width: 300px;
+    border-style: solid;
+    border-color: #9aa5b1;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+}
+
+.reset-button {
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+    border-width: 1px;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+}
